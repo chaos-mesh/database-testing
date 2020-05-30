@@ -1,3 +1,3 @@
 # database-testing
 
-[Benchmark](./benchmark)
+[Benchmark](./benchmark.md)
