@@ -1,4 +1,5 @@
-In PingCAP. We build a platform and many tools for benchmarking. The platform contains many standerd bencmarking(such as TPCC/TPCH/YCSB/SYSBENCH).
+# Benchmark
+In PingCAP. We build a platform and many tools for benchmarking. The platform contains many standerd bencmarking(such as TPCC/TPCH/YCSB/SYSBENCH). And run day by day
 
 ## Benchmark Platform
 The platform is [here](http://perf.pingcap.com)
