@@ -2,4 +2,6 @@
 
 [Benchmark](./benchmark.md)
 
-[Chaos Testing](./chaos-testing.md)
+[Chaos](./chaos-testing.md)
+
+[Fuzzing](./fuzzing.md)
