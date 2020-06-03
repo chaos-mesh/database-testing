@@ -8,4 +8,4 @@ And we also rewrite sqlsmith, the project is in tipocket and the name is [go-sql
 
 Since TiDB is not 100% compatibility with MySQL. The correctness is still hard to cover, then we use a go version of [sqlancer](https://github.com/sqlancer/sqlancer). The original one has proven to be a very effective way to find correctness bugs in https://www.manuelrigger.at/dbms-bugs/
 
-In the TiDB cluster, we have hundreds of configs, we also need to test if each config is work well on common tests and on fuzz tests. So we create a project [matrix](https://github.com/chaos-mesh/matrix)
+In the TiDB cluster, we have hundreds of configs, we also need to test if each config is work well on common tests and on fuzz tests. So we create a project [matrix](https://github.com/chaos-mesh/matrix) to fuzz configs
