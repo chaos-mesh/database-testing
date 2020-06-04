@@ -1,6 +1,6 @@
 # database-testing
 
-[Benchmark](./benchmark.md)
+[Benchmarking](./benchmarking.md)
 
 [Chaos](./chaos-testing.md)
 
